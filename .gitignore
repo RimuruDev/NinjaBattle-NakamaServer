@@ -5,6 +5,7 @@
 **.idea/
 **.ws/
 **.vs/
+node_modules
 **/[Bb]uilds/
 */[Tt]rash/
 */[Tt]rash.meta
